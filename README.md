@@ -20,8 +20,7 @@ sudo chmod +x /usr/local/bin/datagram-cli
  
  or 
 
-cd /usr/local/bin
-sudo chmod +x datagram-cli
+cd /usr/local/bin && sudo chmod +x datagram-cli
 
 
 # open a screen if you are not on one already 
