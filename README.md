@@ -47,3 +47,5 @@ https://dashboard.datagram.network/wallet?tab=licenses
 
 # NB
 Just a reminder for everyone that the uptime points are only distributed every six hours or so on-average, with four check-in points on-chain per day. The time at which this happens for your individual node is randomized so that there isn't chain congestion with everyone hitting the chain at the same time. 
+
+This means that for each six-hour period, there will be one distribution of uptime points for your node SOMEWHERE in that six hour window. Hypothetically, you could have the first uptime in minute 1 of your first six-hour window and minute 360 of your second window, meaning that you could have no points showing up for almost 12 hours. 
