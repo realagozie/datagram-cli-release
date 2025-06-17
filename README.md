@@ -34,3 +34,12 @@ datagram-cli run -- -key YOUR_API_KEY
 go-to licence tab to see if its connected successfully
 https://dashboard.datagram.network/wallet?tab=licenses
 
+
+➖ Join Discord (https://discord.gg/XxJpy555)
+➖ Open a ticket "Early Alpha Tester Role"
+➖ Send your Proof:
+▫️ Screenshot Follow (https://x.com/DGramNetwork) and Retweet (https://x.com/DGramNetwork/status/1932786372613734602)
+▫️ Join Telegram Group (https://t.me/datagramnetwork)
+▫️ Node dashboard showing node running (Green Connected)
+
+
