@@ -39,8 +39,7 @@ https://dashboard.datagram.network/wallet?tab=licenses
 
 ➖ Open a ticket "Early Alpha Tester Role"
 
-➖ Send your Proof:
-
+➖ Send your Proof: include..
 ▫️ Screenshot Follow (https://x.com/DGramNetwork) and Retweet (https://x.com/DGramNetwork/status/1932786372613734602)
 ▫️ Join Telegram Group (https://t.me/datagramnetwork)
 ▫️ Node dashboard showing node running (Green Connected)
