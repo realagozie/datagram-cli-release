@@ -7,7 +7,7 @@ SIGNUP HERE TO GET STARTED: https://dashboard.datagram.network?ref=546610716
 # Command to clean up old .db for Linux installs:
 rm -rf ~/.datagram/ai-router/.db
 
-# get the latest version by going to the GitHub and copy the direct link, then download using wget 
+# get the latest version by going to the GitHub and copy the direct link of the latest release, then download using wget 
 wget https://github.com/Datagram-Group/datagram-cli-release/releases/download/1.1.4/datagram-cli-x86_64-linux
 
 # move the file to bin dir
