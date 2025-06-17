@@ -45,3 +45,5 @@ https://dashboard.datagram.network/wallet?tab=licenses
 ▫️ Node dashboard showing node running (Green Connected)
 
 
+#NB
+Just a reminder for everyone that the uptime points are only distributed every six hours or so on-average, with four check-in points on-chain per day. The time at which this happens for your individual node is randomized so that there isn't chain congestion with everyone hitting the chain at the same time. 
