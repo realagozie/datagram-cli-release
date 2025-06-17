@@ -34,7 +34,7 @@ datagram-cli run -- -key YOUR_API_KEY
 go-to licence tab to see if its connected successfully
 https://dashboard.datagram.network/wallet?tab=licenses
 
-
+# extra discord task forEarly Alpha Tester Role role
 ➖ Join Discord (https://discord.gg/XxJpy555)
 
 ➖ Open a ticket "Early Alpha Tester Role"
