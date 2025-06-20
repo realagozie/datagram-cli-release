@@ -44,6 +44,8 @@ https://dashboard.datagram.network/wallet?tab=licenses
 ▫️ Join Telegram Group (https://t.me/datagramnetwork)
 ▫️ Node dashboard showing node running (Green Connected)
 
+
+
 (new dev) fill this form to get early alpha testnet role https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform
 
 
