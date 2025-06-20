@@ -35,16 +35,7 @@ go-to licence tab to see if its connected successfully
 https://dashboard.datagram.network/wallet?tab=licenses
 
 # extra discord task for Early Alpha Tester Role role
-➖ Join Discord (https://discord.gg/XxJpy555)
-
-➖ Open a ticket "Early Alpha Tester Role"
-
-➖ Send your Proof: include..
-▫️ Screenshot Follow (https://x.com/DGramNetwork) and Retweet (https://x.com/DGramNetwork/status/1932786372613734602)
-▫️ Join Telegram Group (https://t.me/datagramnetwork)
-▫️ Node dashboard showing node running (Green Connected)
-
-
+➖ Join Discord (https://discord.gg/datagramnetwork)
 
 (new dev) fill this form to get early alpha testnet role https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform
 
