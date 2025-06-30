@@ -37,7 +37,7 @@ https://dashboard.datagram.network/wallet?tab=licenses
 # extra discord task for Early Alpha Tester Role role
 ➖ Join Discord (https://discord.gg/datagramnetwork)
 
-(new dev) fill this form to get early alpha testnet role https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform
+(new update) fill this form to get early alpha testnet role https://docs.google.com/forms/d/e/1FAIpQLSevC3QjAx4xdNysKoRtCSR_5cAUtVBhoNu3XoCrQBIOYVQN8A/viewform
 
 
 # NB
